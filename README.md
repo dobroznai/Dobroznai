@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Ivan Dobroznai</h1>
 
-<!--
-**Dobroznai/Dobroznai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dobroznai&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/dobroznai"><img src="https://img.shields.io/github/followers/dobroznai?style=social" alt="GitHub Followers"></a>
+  <a href="https://twitter.com/vanrest_trader"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" alt="Twitter Follow"></a>
+  <a href="https://linkedin.com/in/dobroznai"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+- **Languages**: Java
+- **Tools**: Git, IDEA
+
+## 📈 Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobroznai&theme=dark" />
+</p>
+
+## 🌱 Currently Learning
+- Blockchain Development
+- Java Core
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dobroznai&show_icons=true&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dobroznai&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobroznai&layout=compact&theme=dark)
