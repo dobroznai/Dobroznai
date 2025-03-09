@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/dobroznai"><img src="https://img.shields.io/github/followers/dobroznai?style=social" alt="GitHub Followers"></a>
-  <a href="https://twitter.com/vanrest_trader"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" alt="Twitter Follow"></a>
+  <a href="https://twitter.com/vanrest_trader"><img src="https://img.shields.io/twitter/follow/vanrest_trader?style=social" alt="Twitter Follow"></a>
   <a href="https://www.linkedin.com/in/dobroznai"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
