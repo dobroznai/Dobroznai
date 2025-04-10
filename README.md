@@ -20,7 +20,6 @@
 
 <img src="https://res.cloudinary.com/canonical/image/fetch/c_limit,f_auto,q_auto,fl_sanitize,c_fill,w_960,h_480/https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png" alt="Visual Studio Code" width=150px>
 
-<img src="https://filearchive.cnews.ru/img/cnews/2021/10/19/logos/74/7433692cabbfa132f34adb034e7909fa.png" width=150px>
 
 ## 🌱 Currently Learning
 - Java Script
