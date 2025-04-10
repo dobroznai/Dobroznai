@@ -1,9 +1,6 @@
 <h1 align="center"><strong>Ivan Dobroznai</strong></h1>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dobroznai&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 <p align="center" styles="border: Solid">
   <a href="https://github.com/dobroznai"><img src="https://img.shields.io/github/followers/dobroznai?style=social" alt="GitHub Followers"></a>
@@ -12,22 +9,23 @@
 </p>
 
 ## 🛠 Technologies & Tools
-- **Languages**: Java, HTML/CSS;
+- **Languages**: Java Core, HTML/CSS;
 - **Tools**:
 
 -
 - Git, IDEA (Asana, Trello, Notion, Obsidian, TradingView);
 <img src="https://res.cloudinary.com/canonical/image/fetch/c_limit,f_auto,q_auto,fl_sanitize,c_fill,w_960,h_480/https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png" alt="Visual Studio Code" width=150px>
 
+## 🌱 Currently Learning
+- Java Script
+
 -![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobroznai&layout=compact&theme=dark)
 
-## 📈 Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobroznai&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dobroznai&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-## 🌱 Currently Learning
-- Blockchain Development
-- Java Core
+
+
 
 
