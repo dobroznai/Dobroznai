@@ -13,8 +13,11 @@
 
 ## 🛠 Technologies & Tools
 - **Languages**: Java, HTML/CSS;
-- **Tools**: Git, IDEA, Asana, Trello, Notion, Obsidian, TradingView
+- **Tools**:
 
+-
+- Visual Studio Code, Git, IDEA (Asana, Trello, Notion, Obsidian, TradingView);
+<img src="https://res.cloudinary.com/canonical/image/fetch/c_limit,f_auto,q_auto,fl_sanitize,c_fill,w_960,h_480/https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png" alt="Visual Studio Code">
 -![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobroznai&layout=compact&theme=dark)
 
 ## 📈 Stats
