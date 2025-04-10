@@ -10,6 +10,10 @@
 
 -![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobroznai&layout=compact&theme=dark)
 
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=dobroznai&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
 ## 🛠 Technologies & Tools
 - **Languages**: Java Core, HTML/CSS;
 - **Tools**: Git, IDEA (Asana, Trello, Notion, Obsidian, TradingView);
@@ -21,9 +25,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dobroznai&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+
 
 
 
