@@ -11,7 +11,7 @@
 ## 🛠 Technologies & Tools
 - **Languages**: Java Core, HTML/CSS;
 - **Tools**: Git, IDEA (Asana, Trello, Notion, Obsidian, TradingView);
-- 
+
 <img src="https://res.cloudinary.com/canonical/image/fetch/c_limit,f_auto,q_auto,fl_sanitize,c_fill,w_960,h_480/https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png" alt="Visual Studio Code" width=150px>
 
 ## 🌱 Currently Learning
