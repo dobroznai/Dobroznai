@@ -8,6 +8,8 @@
   <a href="https://www.linkedin.com/in/dobroznai"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
+-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobroznai&layout=compact&theme=dark)
+
 ## 🛠 Technologies & Tools
 - **Languages**: Java Core, HTML/CSS;
 - **Tools**: Git, IDEA (Asana, Trello, Notion, Obsidian, TradingView);
@@ -17,7 +19,7 @@
 ## 🌱 Currently Learning
 - Java Script
 
--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobroznai&layout=compact&theme=dark)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dobroznai&show_icons=true&theme=dark" alt="GitHub Stats" />
