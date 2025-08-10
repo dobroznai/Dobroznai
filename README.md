@@ -43,7 +43,7 @@
 ---
 
 ## 🌱 Currently Learning
-- React
+- React + TS
 
 
 
