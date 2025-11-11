@@ -16,10 +16,10 @@
 ---
 
 ## 🛠 Technologies & Tools
-- **Languages**: Java, JavaScript  
-- **Frameworks**: React
+- **Languages**: Java, JS, TS
+- **Frameworks**: React, Spring
 - **Databases** PostgreSQL, MongoDB
-- **Tools**: Git, IDEA, Asana, Trello, Notion, Obsidian, HTML/CSS, Docker
+- **Tools**: Git, IDEA, Slack, Asana, Trello, Notion, Obsidian, HTML/CSS, Docker, pgAdmin, Postman, Swagger
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual Studio Code" width="65px" />
@@ -43,7 +43,7 @@
 ---
 
 ## 🌱 Currently Learning
-- React + TS
+- Spring Java
 
 
 
