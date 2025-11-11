@@ -10,44 +10,48 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobroznai&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobroznai&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
 ## 🛠 Technologies & Tools
-- **Languages**: Java, JS, TS
-- **Frameworks**: React, Spring
-- **Databases** PostgreSQL, MongoDB
-- **Tools**: Git, IDEA, Slack, Asana, Trello, Notion, Obsidian, HTML/CSS, Docker, pgAdmin, Postman, Swagger
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual Studio Code" width="65px" />
-  <img src="https://ubuntuhandbook.org/wp-content/uploads/2023/09/idea-logo.webp" alt="idea logo" width="80px" />
-  <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="React" width="100px" />
-  <img src="https://www.pikpng.com/pngl/b/150-1506141_html-css-and-javascript-logo-html5-css3-js.png" alt="js core" width="150px" />
-  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-nodejs-logo-27.png" alt="node js logo" width="65px" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java logo" width="65px" />
+**Languages:** Java, JavaScript (JS), TypeScript (TS)  
+**Frameworks:** React, Spring  
+**Databases:** PostgreSQL, MongoDB  
+**Tools & Platforms:** Git, IntelliJ IDEA, VS Code, Slack, Asana, Trello, Notion, Obsidian, Docker, pgAdmin, Postman, Swagger, Beekeeper Studio  
+**Web:** HTML, CSS  
 
+---
 
-  <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" alt="Mongo logo" width="65px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"  alt="postgresql logo" width="60px" />
-  <img src="https://www.devprojournal.com/wp-content/uploads/2022/05/docker-logo.webp" alt="docker logo" width="65px" />
-  <img src="https://www.beekeeperstudio.io/assets/img/logos/bk-logo-yellow-icon-c964a711bdf65aea45c437211468e08896ad7e5dd5fb4e7f9136e8e62868d5c4dcd9bfa63b94ca38914685d3da8d732ea0d73e39c161b01c6a9ee298de4ea374.svg" alt="beekeeper logo" width="50px" />
-
-
-
-  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
-- Spring Java
 
+🚀 **Spring (Java Framework)** — focusing on backend development, REST API design, and scalable architecture.
 
+---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dobroznai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-
-
-
+---
