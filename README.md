@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Ivan Dobroznai</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Learning+Spring+%26+React;Based+in+Germany" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Spring+%26+React;Based+in+Germany" />
 </p>
 
 <p align="center">
