@@ -1,6 +1,10 @@
 <h1 align="center"><strong>Ivan Dobroznai</strong></h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Learning+Spring+%26+React;Based+in+Germany" />
+</p>
+
+<p align="center">
   <a href="https://github.com/dobroznai">
     <img src="https://img.shields.io/github/followers/dobroznai?style=social" alt="GitHub Followers">
   </a>
@@ -9,9 +13,12 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobroznai&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+## 👋 About Me
+
+- 🇩🇪 Based in Germany (Augsburg / Munich)
+- 💻 Java Developer / Frontend Developer
+- 🚀 Focused on Backend (Spring, PostgreSQL)
+- 🌱 Interested in Blockchain & Machine Learning
 
 ---
 
@@ -20,7 +27,7 @@
 **Languages:** Java, JavaScript (JS), TypeScript (TS)  
 **Frameworks:** React, Spring  
 **Databases:** PostgreSQL, MongoDB  
-**Tools & Platforms:** Git, IntelliJ IDEA, VS Code, Slack, Asana, Trello, Notion, Obsidian, Docker, pgAdmin, Postman, Swagger, Beekeeper Studio  
+**Tools & Platforms:** Git, IntelliJ IDEA, VS Code, Slack, Asana, Trello, Notion, Obsidian, Docker, pgAdmin, Postman, Swagger, Beekeeper Studio, Redux Toolkit  
 **Web:** HTML, CSS  
 
 ---
@@ -42,16 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3"/>
 </p>
 
----
-
-## 🌱 Currently Learning
-
-🚀 **Spring (Java Framework)** — focusing on backend development, REST API design, and scalable architecture.
-
----
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dobroznai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
----
+
