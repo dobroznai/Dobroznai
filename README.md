@@ -1,4 +1,5 @@
-<h1 align="center"><strong>Ivan Dobroznai</strong></h1>
+<h1 align="center">Ivan Dobroznai</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Spring+%26+React;Based+in+Germany" />
@@ -57,4 +58,34 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
+## 📊 GitHub Language Stats
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dobroznai&theme=github_dark&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dobroznai&theme=github_dark&hide_border=true"
+    height="180"
+  />
+</p>
+
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dobroznai&theme=github_dark&utcOffset=1&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dobroznai&theme=github_dark&hide_border=true"
+    height="180"
+  />
+</p>
+
+## 📬 Contact
+
+- GitHub: https://github.com/dobroznai
+- LinkedIn: https://www.linkedin.com/in/dobroznai
 
